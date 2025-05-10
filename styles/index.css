@@ -11,6 +11,7 @@
 
 .body {
     max-width: 1920px;
+    min-width: 390px;
     margin: 0 auto;
     font-family: 'Lato', sans-serif;
 }

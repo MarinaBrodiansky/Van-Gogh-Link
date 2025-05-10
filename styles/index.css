@@ -1,0 +1,16 @@
+@import url(./header.css);
+@import url(./main.css);
+@import url(./footer.css);
+
+@font-face {
+    font-family: 'Korataki';
+    src: url('../assets/fonts/ofont.ru_Korataki.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.body {
+    max-width: 1920px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
